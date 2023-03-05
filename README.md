@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evan_tu
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning computer science in University of Michigan, Ann Arbor
-- 💞️ I’m looking to collaborate on graph neural networks
+- 💞️ I’m looking to collaborate on writing pigs
 - 📫 Contact via evantu@umich.edu! 
 
 <!---
